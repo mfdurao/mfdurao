@@ -1,7 +1,7 @@
 
 ### Hi. Welcome to my profile 👋
 
-<p align="justify">My name is Matheus Felipe da Rosa Durão, I am a 21y student of Computer Science at URI Santo Ângelo. Since I discover the world behind front-end development I focus on this point for the start of my carreer in this area. Currently, Im focusing my front-end programming and React studies based on <a href="https://rocketseat.com.br/">Rocketseat</a>, a company that, like me, aims to seek and deliver solutions in the best possible way.</p>
+<p align="justify">My name is Matheus Felipe da Rosa Durão, I am a 22y student of Computer Science at URI Santo Ângelo. Since I discover the world behind front-end development I focus on this point for the start of my carreer in this area. Currently, Im focusing my front-end programming and React studies based on <a href="https://rocketseat.com.br/">Rocketseat</a>, a company that, like me, aims to seek and deliver solutions in the best possible way.</p>
 
 <div align="left">
   
